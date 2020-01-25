@@ -13,6 +13,8 @@ yarn
 npm run build / yarn run build
 
 npm run serve / yarn run serve
+
+npm run prod / yarn run prod
 ```
 
 ## Browserlist
